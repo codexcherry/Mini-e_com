@@ -1,0 +1,2 @@
+[2026-03-25 09:40:40.397450] Added product Laptop
+[2026-03-25 09:41:07.663067] Added user Nithin V S
